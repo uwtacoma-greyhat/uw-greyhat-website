@@ -13,7 +13,7 @@ $pgtitle = 'Contact';
             <div class="row">
 		<div class="span8">
                     <h2>Contact Grey Hat</h2>
-                    <p>If you have questions about Grey Hat, just email us at <a href="greyhat (at) uw.edu">greyhat (at) uw.edu</a></p>
+                    <p>If you have questions about Grey Hat, just email us at <a href="mailto:greyhat (at) uw.edu">greyhat (at) uw.edu</a></p>
                     <p></p> 
                 </div>
 
